@@ -688,3 +688,19 @@
 Caso esse repositório tenha te ajudado com seus estudos de alguma forma:      
 - 🤝 Fork este repositório para estudo e contribua com o conhecimento.
 - ⭐ deixe sua estrela neste repositório.
+
+    
+# Desafio de projeto
+    
+- Terminar a página de about, linkando as rotas e atualizando os componentes na nossa view;
+- Subir o projeto em um repositório no GitHub.
+
+<br> 
+    
+## Exemplo da página about
+    
+<img src="https://github.com/DianaMartine/lab-dio-angular-marketplace/blob/main/assets/img/about-view-example.png" alt="example-about-view" />
+        
+Fiquem a vontade para usar o conhecimento aqui adquirido.
+
+Tudo certo jovem!
