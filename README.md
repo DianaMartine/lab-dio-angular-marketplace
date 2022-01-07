@@ -686,7 +686,7 @@
 
 ## Exemplo da página about
     
-<img src="https://github.com/DianaMartine/lab-dio-angular-marketplace/blob/main/assets/img/about-view-example.png" alt="example-about-view" />
+<img src="https://raw.githubusercontent.com/DianaMartine/lab-dio-angular-marketplace/main/assets/img/about-view-example.png" alt="example-about-view" />
         
 Fiquem a vontade para usar o conhecimento aqui adquirido.
 
