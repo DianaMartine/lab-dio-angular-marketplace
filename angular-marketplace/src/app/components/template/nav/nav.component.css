@@ -1,0 +1,32 @@
+.nav-container {
+    background-color: #202020;
+}
+
+.sidenav {
+    background-color: #202020;
+    width: 200px;
+    position: fixed;
+    top: 0;
+}
+
+.mat-nav-button {
+    margin-bottom: 1rem;
+    background-color: #2c2c2c;
+    color: #f2f2f2;
+    border: none;
+    border-radius: 4px;
+}
+
+.sidenav .mat-list a {
+    color: #f2f2f2;
+    text-decoration: none;
+}
+
+.sidenav .mat-list i {
+    padding-right: 10px;
+}
+
+.content {
+    padding: 16px;
+    background-color: #f2f2f2;
+}
