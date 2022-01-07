@@ -687,6 +687,7 @@
 ## Exemplo da página about
     
 <img src="https://raw.githubusercontent.com/DianaMartine/lab-dio-angular-marketplace/main/assets/img/about-view-example.png" alt="example-about-view" />
+<p>Veja aqui o projeto funcionando: <a href="https://lab-dio-angular-marketplace-9iwbtlgi6-dianamartine.vercel.app/" target="_blank">Click here!</a>
         
 Fiquem a vontade para usar o conhecimento aqui adquirido.
 
